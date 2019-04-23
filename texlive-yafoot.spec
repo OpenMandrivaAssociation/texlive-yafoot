@@ -5,8 +5,8 @@
 # catalog-license lppl
 # catalog-version undef
 Name:		texlive-yafoot
-Version:	20180303
-Release:	2
+Version:	1.1
+Release:	1
 Summary:	A bundle of miscellaneous footnote packages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/yafoot
