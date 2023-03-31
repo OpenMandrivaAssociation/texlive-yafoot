@@ -1,6 +1,6 @@
 Name:		texlive-yafoot
 Version:	48568
-Release:	1
+Release:	2
 Summary:	A bundle of miscellaneous footnote packages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/yafoot
